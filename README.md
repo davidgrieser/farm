@@ -3,6 +3,8 @@
 A farm should have a field
 The field should be empty
 
-Animals need to be fed and be hungry
+Animals can be fed and be hungry
 
 Pigs want more food
+
+Put the Pig in the Farm Field
