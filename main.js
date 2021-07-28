@@ -8,5 +8,7 @@ const pig = new Animal('Phillip'); //
 console.log(myFarm);
 console.log(pig);
 
+pig.feed();
+console.log(pig);
 
 
