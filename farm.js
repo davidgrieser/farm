@@ -3,7 +3,14 @@ class Farm {
         this.field = []; // or possibly 0
         // null ?  probably shouldn't use something we don't know
     }
-// possibly have a field with arces
+
+    // make method
+    addAnimal(animal) {
+        if (animal.hungry === false) {
+            return this.field.push(animal);
+        }
+    }
+    // possibly have a field with arces
 }
 
 export default Farm;

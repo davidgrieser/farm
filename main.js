@@ -13,7 +13,5 @@ console.log(pig);
 
 // Put Phillip in the Field
 // add pig to the field string
-if(pig.hungry === false) {
-    myFarm.field.push(pig);
-}
+console.log(myFarm.addAnimal(pig))
 console.log(myFarm);
