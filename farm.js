@@ -11,6 +11,10 @@ class Farm {
         }
     }
     // possibly have a field with arces
+
+    work() {
+      // track work done by farmer
+    }
 }
 
 export default Farm;
